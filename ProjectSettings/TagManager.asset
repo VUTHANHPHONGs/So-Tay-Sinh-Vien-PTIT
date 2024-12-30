@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UMAKeepChain
+  - Patrol2_2
+  - Patrol2_4
+  - Patrol2_1
+  - Patrol2_3
+  - Patrol3_1
+  - Patrol3_2
+  - Patrol4_2
+  - MouseOverWindow
+  - NamePlateCanvas
+  - NorthEntrance
+  - Patrol4_3
+  - Patrol1_1
+  - Patrol6_2
+  - EastEntrance
+  - Patrol1_3
+  - Patrol6_3
+  - Patrol6_1
+  - Patrol5_1
+  - DefaultSpawnLocation
+  - Patrol4_1
+  - Patrol5_2
+  - Patrol1_2
+  - WestEntrance
+  - Patrol5_3
+  - Patrol3_3
+  - SouthBoundary
+  - WestBoundary
+  - NorthBoundary
+  - EastBoundary
+  - SouthEntrance
+  - DungeonEntrance1
+  - UMAIgnore
+  - Talkable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Region
+  - 
+  - TalkableObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,2013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\project\\PTIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\postmethob_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\postmethob_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|d:\\unity\\project\\ptit\\assets\\assets\\script\\playfab\\postmethob_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\postmethob_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|d:\\unity\\project\\ptit\\assets\\assets\\script\\playfab\\postmethob_getlaststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\postmethob_getlaststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\gamemanager\\gameui\\conservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\gamemanager\\gameui\\conservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\questioninteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\questioninteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\npcquestquiza1\\talkinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\npcquestquiza1\\talkinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\gamemanager\\minigame\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\gamemanager\\minigame\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\npcquestquiza1\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\npcquestquiza1\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\scriptableobject\\npcconservationso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\scriptableobject\\npcconservationso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\thirdperson\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\thirdperson\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\dataobject\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\dataobject\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\input\\inputhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\input\\inputhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiza1\\jamesquestinteraction1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiza1\\jamesquestinteraction1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\questsystem\\questpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\questsystem\\questpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\back to basics\\assets\\scripts\\character\\scr_cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\back to basics\\assets\\scripts\\character\\scr_cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\gamemanager\\questmanager_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\gamemanager\\questmanager_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\gamemanager\\gameui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\gamemanager\\gameui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\scriptableobject\\npcinfoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\scriptableobject\\npcinfoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\input\\mousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\input\\mousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\gamemanager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\gamemanager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\quiz\\scripts\\mono\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\quiz\\scripts\\mono\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\dataobject\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\dataobject\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\scriptableobject\\questinfoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\scriptableobject\\questinfoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\scriptableobject\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\scriptableobject\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\model\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\model\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\questsystem\\questicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\questsystem\\questicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\npc\\dataobject\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\npc\\dataobject\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\abc\\health-bar-master\\health-bar-master\\health bar\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\abc\\health-bar-master\\health-bar-master\\health bar\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\postmethob_laststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\postmethob_laststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\questsystem\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\questsystem\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\charactersave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\charactersave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\player\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\player\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity\\project\\ptit\\assets\\assets\\script\\interactableobject\\npc\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\assets\\script\\interactableobject\\npc\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_kituc\\quiz_kituc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_kituc\\quiz_kituc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\uiinventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\uiinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\ui\\quitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\ui\\quitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazequest\\jamesinteraction_maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazequest\\jamesinteraction_maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazequest\\mazefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazequest\\mazefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\events\\questevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\events\\questevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\player\\fasttravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\player\\fasttravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\model\\inventoryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\model\\inventoryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazequest\\mazequeststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazequest\\mazequeststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\objects\\mazecollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\objects\\mazecollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\events\\miscevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\events\\miscevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazequest\\visitexitqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazequest\\visitexitqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazequest\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazequest\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\visitpillarsquest\\visitpillarsqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\visitpillarsquest\\visitpillarsqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\objects\\notifcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\objects\\notifcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\objects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\objects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_a1\\quiza1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_a1\\quiza1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_thuvien\\quiz_thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_thuvien\\quiz_thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_music 1\\quizmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_music 1\\quizmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_vp motcua\\quizvp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_vp motcua\\quizvp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_ktx b5\\quizktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_ktx b5\\quizktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_ktx b3\\quizktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_ktx b3\\quizktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_a1\\answers_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_a1\\answers_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_a2\\quiza2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_a2\\quiza2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_a1\\questionandanswer_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_a1\\questionandanswer_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\collectcoinsquest\\jamesquestinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\collectcoinsquest\\jamesquestinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\thirdperson\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\thirdperson\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\audio\\muteaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\audio\\muteaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\audio\\audiofadequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\audio\\audiofadequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\input\\buttonactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\input\\buttonactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiz_kituc\\jamesquestinteraction2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiz_kituc\\jamesquestinteraction2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiza2\\jamesquestinteractiona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiza2\\jamesquestinteractiona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizmusic\\jamesquestinteractionmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizmusic\\jamesquestinteractionmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizvp motcua\\jamesquestinteractionvp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizvp motcua\\jamesquestinteractionvp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizktx b5\\jamesquestinteractionktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizktx b5\\jamesquestinteractionktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiz_thuvien\\jamesquestinteraction_thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiz_thuvien\\jamesquestinteraction_thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizktx b3\\jamesquestinteractionktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizktx b3\\jamesquestinteractionktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazetothetopquest\\jamesinteraction_mazetothetop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazetothetopquest\\jamesinteraction_mazetothetop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\collectcoinsfestivalquest\\jamesquestinteraction_coinfestival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\collectcoinsfestivalquest\\jamesquestinteraction_coinfestival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiza1-2\\jamesquestinteractiona1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiza1-2\\jamesquestinteractiona1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizmusic\\questquizmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizmusic\\questquizmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\postmethod_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\postmethod_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\audio\\audiofadeingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\audio\\audiofadeingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_music 1\\questionandanswer_music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_music 1\\questionandanswer_music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_music 1\\answers_music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_music 1\\answers_music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\ui\\goldui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\ui\\goldui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\characterselection\\2d\\z.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\characterselection\\2d\\z.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\characterselection\\2d\\character2d_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\characterselection\\2d\\character2d_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\thirdperson\\cameracollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\thirdperson\\cameracollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\collectcoinsfestivalquest\\starfestival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\collectcoinsfestivalquest\\starfestival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\objects\\coinfestival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\objects\\coinfestival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazetothetopquest\\mazetothetop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazetothetopquest\\mazetothetop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\purchasesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\purchasesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\audio\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\audio\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\collectcoinsfestivalquest\\collectcoinsfestivalqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\collectcoinsfestivalquest\\collectcoinsfestivalqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\collectcoinsquest\\collectcoinsqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\collectcoinsquest\\collectcoinsqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\gold\\goldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\gold\\goldmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\mazetothetopquest\\mazetothetopqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\mazetothetopquest\\mazetothetopqueststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\global\\enviromentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\global\\enviromentvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizvp motcua\\questquizvp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizvp motcua\\questquizvp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_vp motcua\\answers_vp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_vp motcua\\answers_vp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_vp motcua\\questionandanswer_vp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_vp motcua\\questionandanswer_vp motcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizktx b5\\questquizktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizktx b5\\questquizktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiz_kituc\\questquiz_kituc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiz_kituc\\questquiz_kituc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiz_thuvien\\questquiz_thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiz_thuvien\\questquiz_thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiza1-2\\questquiza1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiza1-2\\questquiza1-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiza2\\questquiza2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiza2\\questquiza2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quizktx b3\\questquizktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quizktx b3\\questquizktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_ktx b5\\answers_ktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_ktx b5\\answers_ktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_ktx b5\\questionandanswer_ktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_ktx b5\\questionandanswer_ktx b5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_ktx b3\\questionandanswer_ktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_ktx b3\\questionandanswer_ktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_ktx b3\\answers_ktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_ktx b3\\answers_ktx b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\minimap\\rendertexturetoworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\minimap\\rendertexturetoworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\resources\\quests\\quizquest\\quiza1\\questquiza1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\resources\\quests\\quizquest\\quiza1\\questquiza1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_a2\\answers_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_a2\\answers_a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\quiz\\quiz\\quiz_kituc\\answers_kituc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\quiz\\quiz\\quiz_kituc\\answers_kituc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\ui\\questlogui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\ui\\questlogui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\global\\location_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\global\\location_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\ui\\questlogbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\ui\\questlogbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\ui\\questlogscrollinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\ui\\questlogscrollinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\objects\\experiencegem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\objects\\experiencegem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\events\\goldevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\events\\goldevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\inventory\\swipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\inventory\\swipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|D:\\Unity\\project\\PTIT\\assets\\assets\\script\\playfab\\getmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325B8A30-E0D2-6BEF-25FC-EA6EC0AC47EB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\script\\playfab\\getmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\StaminaBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Resources\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\StaminaBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Core\\ScriptableObject\\NPCConservationSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Script\\Core\\ScriptableObject\\NPCConservationSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConservationManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\ConservationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\ConservationManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\ConservationManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\ConservationManager.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwLIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:44:16.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JamesQuestInteraction1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\JamesQuestInteraction1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\JamesQuestInteraction1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\JamesQuestInteraction1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\JamesQuestInteraction1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvygAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:49:27.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionInteract.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\QuestionInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\QuestionInteract.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\QuestionInteract.cs",
+              "RelativeToolTip": "Assets\\QuestionInteract.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:46:42.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostMethob_Login.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_Login.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\PostMethob_Login.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_Login.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\PostMethob_Login.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:59:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TalkInteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\TalkInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\TalkInteraction.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\TalkInteraction.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\TalkInteraction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:05:35.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\Minigame\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\GameManager\\Minigame\\QuizManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\Minigame\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\GameManager\\Minigame\\QuizManager.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:37:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuestPoint.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\QuestSystem\\QuestPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\QuestSystem\\QuestPoint.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\QuestSystem\\QuestPoint.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\QuestSystem\\QuestPoint.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:32:57.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\NPCController.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\NPCQuestQuizA1\\NPCController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAvwG4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:52:09.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NPCConservationSO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCConservationSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCConservationSO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCConservationSO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCConservationSO.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:16:11.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\DataObject\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\DataObject\\PlayerManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\DataObject\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\DataObject\\PlayerManager.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAswJYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:52:13.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputHandle.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Input\\InputHandle.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Input\\InputHandle.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Input\\InputHandle.cs",
+              "RelativeToolTip": "Assets\\Assets\\Input\\InputHandle.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwFEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:35:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "scr_CameraController.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Back to Basics\\Assets\\Scripts\\Character\\scr_CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Back to Basics\\Assets\\Scripts\\Character\\scr_CameraController.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Back to Basics\\Assets\\Scripts\\Character\\scr_CameraController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Back to Basics\\Assets\\Scripts\\Character\\scr_CameraController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswC0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:14:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestManager_1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\QuestManager_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\GameManager\\QuestManager_1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\QuestManager_1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\GameManager\\QuestManager_1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:55:27.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NPCInfoSO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCInfoSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCInfoSO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCInfoSO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\NPCInfoSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:12:10.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\UIManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\GameManager\\GameUI\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:00:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MouseManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Input\\MouseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Input\\MouseManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Input\\MouseManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Input\\MouseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:39:07.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\GameManager\\PlayerManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\GameManager\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\GameManager\\PlayerManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:55:08.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Quiz\\Scripts\\Mono\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Quiz\\Scripts\\Mono\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Quiz\\Scripts\\Mono\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Quiz\\Scripts\\Mono\\GameManager.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAADwv1gAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:05:41.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\DataObject\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\DataObject\\CharacterManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\DataObject\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\DataObject\\CharacterManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:39:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuestInfoSO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\QuestInfoSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\QuestInfoSO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\QuestInfoSO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\QuestInfoSO.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAMwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:22:56.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\DataObject\\Quest.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\DataObject\\Quest.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\DataObject\\Quest.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\DataObject\\Quest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:24:13.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuestIcon.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\QuestSystem\\QuestIcon.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\QuestSystem\\QuestIcon.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\QuestSystem\\QuestIcon.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\QuestSystem\\QuestIcon.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:34:58.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MazeFinish.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeFinish.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeFinish.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeFinish.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:14:43.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "URL.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\URL.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\URL.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\URL.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\URL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAADQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:41:48.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "NPCConservationSO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Core\\ScriptableObject\\NPCConservationSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Core\\ScriptableObject\\NPCConservationSO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Core\\ScriptableObject\\NPCConservationSO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Core\\ScriptableObject\\NPCConservationSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:59:17.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\InteractableObject\\NPC\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\InteractableObject\\NPC\\NPCController.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\InteractableObject\\NPC\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\InteractableObject\\NPC\\NPCController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:09:25.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QuestEvents.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Events\\QuestEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Events\\QuestEvents.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Events\\QuestEvents.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Events\\QuestEvents.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:47:00.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Quiz_KiTuc.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Quiz_KiTuc.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Quiz_KiTuc.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Quiz_KiTuc.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Quiz_KiTuc.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:56:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JamesInteraction_Maze.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\JamesInteraction_Maze.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\JamesInteraction_Maze.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\JamesInteraction_Maze.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\JamesInteraction_Maze.cs",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAiwIcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T08:01:01.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FastTravel.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Player\\FastTravel.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Player\\FastTravel.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Player\\FastTravel.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Player\\FastTravel.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwDgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:35:14.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MiscEvents.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Events\\MiscEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Events\\MiscEvents.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Events\\MiscEvents.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Events\\MiscEvents.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwDAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:03.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MazeQuestStep.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeQuestStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeQuestStep.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeQuestStep.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\MazeQuestStep.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:42:12.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MazeCollect.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\MazeCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Objects\\MazeCollect.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\MazeCollect.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Objects\\MazeCollect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:26:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VisitExitQuestStep.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\VisitExitQuestStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\VisitExitQuestStep.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\VisitExitQuestStep.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\VisitExitQuestStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:01:28.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\Maze.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\Maze.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeQuest\\Maze.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeQuest\\Maze.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:51:12.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VisitPillarsQuestStep.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\VisitPillarsQuest\\VisitPillarsQuestStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\VisitPillarsQuest\\VisitPillarsQuestStep.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\VisitPillarsQuest\\VisitPillarsQuestStep.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\VisitPillarsQuest\\VisitPillarsQuestStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:53:54.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NotifCollider.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\NotifCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Objects\\NotifCollider.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\NotifCollider.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Objects\\NotifCollider.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:38:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Objects\\Coin.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\Coin.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Objects\\Coin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:36:09.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "QuizA1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuizA1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuizA1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuizA1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuizA1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAhwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:13:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Quiz_ThuVien.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_ThuVien\\Quiz_ThuVien.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_ThuVien\\Quiz_ThuVien.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_ThuVien\\Quiz_ThuVien.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_ThuVien\\Quiz_ThuVien.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAawFsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:04:23.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "QuizMusic.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuizMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuizMusic.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuizMusic.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuizMusic.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:48:53.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "QuizVP MotCua.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuizVP MotCua.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuizVP MotCua.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuizVP MotCua.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuizVP MotCua.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwGcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:57:12.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuizKTX B5.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuizKTX B5.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuizKTX B5.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuizKTX B5.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuizKTX B5.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:22:19.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "QuizKTX B3.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuizKTX B3.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuizKTX B3.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuizKTX B3.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuizKTX B3.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:38:45.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Answers_A1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\Answers_A1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\Answers_A1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\Answers_A1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\Answers_A1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:55:11.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "QuizA2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\QuizA2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\QuizA2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\QuizA2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\QuizA2.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAuwGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:27:28.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "QuestionAndAnswer_A1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuestionAndAnswer_A1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuestionAndAnswer_A1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuestionAndAnswer_A1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A1\\QuestionAndAnswer_A1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:55:00.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\ThirdPerson\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\ThirdPerson\\PauseMenu.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\ThirdPerson\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\ThirdPerson\\PauseMenu.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:36:26.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ButtonActivator.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Input\\ButtonActivator.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Input\\ButtonActivator.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Input\\ButtonActivator.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Input\\ButtonActivator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:33:25.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "JamesQuestInteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\JamesQuestInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\JamesQuestInteraction.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\JamesQuestInteraction.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\JamesQuestInteraction.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:42:57.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "JamesQuestInteractionA2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\JamesQuestInteractionA2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\JamesQuestInteractionA2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\JamesQuestInteractionA2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\JamesQuestInteractionA2.cs",
+              "ViewState": "AQIAABsBAAAAAAAAAAAqwNoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:52:49.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AudioFadeQuest.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\AudioFadeQuest.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Audio\\AudioFadeQuest.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\AudioFadeQuest.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Audio\\AudioFadeQuest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:47:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MuteAudio.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\MuteAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Audio\\MuteAudio.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\MuteAudio.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Audio\\MuteAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:47:43.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "JamesQuestInteraction2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\JamesQuestInteraction2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\JamesQuestInteraction2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\JamesQuestInteraction2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\JamesQuestInteraction2.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswNsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:50:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "JamesQuestInteractionMusic.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\JamesQuestInteractionMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\JamesQuestInteractionMusic.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\JamesQuestInteractionMusic.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\JamesQuestInteractionMusic.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAADwv9oAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:58:02.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "JamesQuestInteractionVP MotCua.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\JamesQuestInteractionVP MotCua.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\JamesQuestInteractionVP MotCua.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\JamesQuestInteractionVP MotCua.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\JamesQuestInteractionVP MotCua.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAADwv9oAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:02:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "JamesQuestInteractionKTX B5.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\JamesQuestInteractionKTX B5.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\JamesQuestInteractionKTX B5.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\JamesQuestInteractionKTX B5.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\JamesQuestInteractionKTX B5.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAADwv9oAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:29:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "JamesQuestInteraction_ThuVien.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\JamesQuestInteraction_ThuVien.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\JamesQuestInteraction_ThuVien.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\JamesQuestInteraction_ThuVien.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\JamesQuestInteraction_ThuVien.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAADwv9sAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:13:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "JamesQuestInteractionKTX B3.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\JamesQuestInteractionKTX B3.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\JamesQuestInteractionKTX B3.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\JamesQuestInteractionKTX B3.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\JamesQuestInteractionKTX B3.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAADwv9oAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:44:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "JamesInteraction_MazeToTheTop.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\JamesInteraction_MazeToTheTop.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\JamesInteraction_MazeToTheTop.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\JamesInteraction_MazeToTheTop.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\JamesInteraction_MazeToTheTop.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAADwvwYBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:36:03.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "JamesQuestInteraction_CoinFestival.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\JamesQuestInteraction_CoinFestival.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\JamesQuestInteraction_CoinFestival.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\JamesQuestInteraction_CoinFestival.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\JamesQuestInteraction_CoinFestival.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAADwv98AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:51:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "JamesQuestInteractionA1-2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\JamesQuestInteractionA1-2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\JamesQuestInteractionA1-2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\JamesQuestInteractionA1-2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\JamesQuestInteractionA1-2.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAANwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:54:07.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "QuestQuizMusic.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\QuestQuizMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\QuestQuizMusic.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\QuestQuizMusic.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizMusic\\QuestQuizMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:56:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AudioFadeInGame.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\AudioFadeInGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Audio\\AudioFadeInGame.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\AudioFadeInGame.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Audio\\AudioFadeInGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:07:33.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Answers_Music.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\Answers_Music.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\Answers_Music.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\Answers_Music.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\Answers_Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:49:30.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CameraCollision.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\ThirdPerson\\CameraCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\ThirdPerson\\CameraCollision.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\ThirdPerson\\CameraCollision.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\ThirdPerson\\CameraCollision.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:36:17.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Character2D_Manager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\CharacterSelection\\2D\\Character2D_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\CharacterSelection\\2D\\Character2D_Manager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\CharacterSelection\\2D\\Character2D_Manager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\CharacterSelection\\2D\\Character2D_Manager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:49:15.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "z.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\CharacterSelection\\2D\\z.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\CharacterSelection\\2D\\z.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\CharacterSelection\\2D\\z.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\CharacterSelection\\2D\\z.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:49:24.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "StarFestival.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\StarFestival.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\StarFestival.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\StarFestival.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\StarFestival.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:48:41.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CoinFestival.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\CoinFestival.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Objects\\CoinFestival.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\CoinFestival.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Objects\\CoinFestival.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:00:02.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "MazeToTheTop.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTop.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTop.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTop.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTop.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:52:17.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ScreenCapture.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\ScreenCapture.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Audio\\ScreenCapture.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Audio\\ScreenCapture.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Audio\\ScreenCapture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:54:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "CollectCoinsFestivalQuestStep.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\CollectCoinsFestivalQuestStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\CollectCoinsFestivalQuestStep.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\CollectCoinsFestivalQuestStep.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\CollectCoinsFestivalQuest\\CollectCoinsFestivalQuestStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:48:10.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "CollectCoinsQuestStep.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\CollectCoinsQuestStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\CollectCoinsQuestStep.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\CollectCoinsQuestStep.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\CollectCoinsQuest\\CollectCoinsQuestStep.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:01:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "MazeToTheTopQuestStep.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTopQuestStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTopQuestStep.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTopQuestStep.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\MazeToTheTopQuest\\MazeToTheTopQuestStep.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:08:33.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "EnviromentVisual.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Global\\EnviromentVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Global\\EnviromentVisual.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Global\\EnviromentVisual.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Global\\EnviromentVisual.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:45:22.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Answers_VP MotCua.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\Answers_VP MotCua.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\Answers_VP MotCua.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\Answers_VP MotCua.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\Answers_VP MotCua.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:58:06.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "QuestQuizVP MotCua.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\QuestQuizVP MotCua.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\QuestQuizVP MotCua.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\QuestQuizVP MotCua.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizVP MotCua\\QuestQuizVP MotCua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:01:36.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "QuestionAndAnswer_VP MotCua.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuestionAndAnswer_VP MotCua.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuestionAndAnswer_VP MotCua.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuestionAndAnswer_VP MotCua.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_VP MotCua\\QuestionAndAnswer_VP MotCua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:56:51.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "QuestQuiz_KiTuc.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\QuestQuiz_KiTuc.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\QuestQuiz_KiTuc.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\QuestQuiz_KiTuc.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_KiTuc\\QuestQuiz_KiTuc.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:32:53.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "QuestQuizKTX B5.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\QuestQuizKTX B5.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\QuestQuizKTX B5.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\QuestQuizKTX B5.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B5\\QuestQuizKTX B5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:27:09.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "QuestQuizA1-2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\QuestQuizA1-2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\QuestQuizA1-2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\QuestQuizA1-2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1-2\\QuestQuizA1-2.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:32:08.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "QuestQuiz_ThuVien.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\QuestQuiz_ThuVien.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\QuestQuiz_ThuVien.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\QuestQuiz_ThuVien.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\Quiz_ThuVien\\QuestQuiz_ThuVien.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:12:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "QuestQuizA2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\QuestQuizA2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\QuestQuizA2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\QuestQuizA2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA2\\QuestQuizA2.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:31:41.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "QuestQuizKTX B3.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\QuestQuizKTX B3.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\QuestQuizKTX B3.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\QuestQuizKTX B3.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizKTX B3\\QuestQuizKTX B3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:45:45.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Answers_KTX B5.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\Answers_KTX B5.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\Answers_KTX B5.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\Answers_KTX B5.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\Answers_KTX B5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:23:16.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "QuestionAndAnswer_KTX B5.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuestionAndAnswer_KTX B5.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuestionAndAnswer_KTX B5.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuestionAndAnswer_KTX B5.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B5\\QuestionAndAnswer_KTX B5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:22:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "QuestionAndAnswer_KTX B3.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuestionAndAnswer_KTX B3.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuestionAndAnswer_KTX B3.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuestionAndAnswer_KTX B3.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\QuestionAndAnswer_KTX B3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:38:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Answers_KTX B3.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\Answers_KTX B3.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\Answers_KTX B3.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\Answers_KTX B3.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KTX B3\\Answers_KTX B3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:39:35.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "QuestQuizA1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\QuestQuizA1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\QuestQuizA1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\QuestQuizA1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Quests\\QuizQuest\\QuizA1\\QuestQuizA1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:33:43.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Answers_A2.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\Answers_A2.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\Answers_A2.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\Answers_A2.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_A2\\Answers_A2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:57:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Answers_KiTuc.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Answers_KiTuc.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Answers_KiTuc.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Answers_KiTuc.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_KiTuc\\Answers_KiTuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:42:46.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "QuestLogButton.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuestLogButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\UI\\QuestLogButton.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuestLogButton.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\UI\\QuestLogButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:09:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "QuestLogScrollingList.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuestLogScrollingList.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\UI\\QuestLogScrollingList.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuestLogScrollingList.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\UI\\QuestLogScrollingList.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:10:58.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ExperienceGem.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\ExperienceGem.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Objects\\ExperienceGem.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Objects\\ExperienceGem.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Objects\\ExperienceGem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:31:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "GoldEvents.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Events\\GoldEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Events\\GoldEvents.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Events\\GoldEvents.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Events\\GoldEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:35:55.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "SwipeController.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\SwipeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\SwipeController.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\SwipeController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\SwipeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:32:18.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\GameData.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\GameData.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\GameData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:43:46.763Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PostMethob_LastState.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_LastState.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\PostMethob_LastState.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_LastState.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\PostMethob_LastState.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:44:50.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostMethob_SignUp.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_SignUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\PostMethob_SignUp.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_SignUp.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\PostMethob_SignUp.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:18:04.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostMethob_GetLastState.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_GetLastState.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\PostMethob_GetLastState.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethob_GetLastState.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\PostMethob_GetLastState.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:29:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemSO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\ItemSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\ItemSO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\NPC\\ScriptableObject\\ItemSO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\NPC\\ScriptableObject\\ItemSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:21:57.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interact.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\ThirdPerson\\Interact.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\ThirdPerson\\Interact.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\ThirdPerson\\Interact.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\ThirdPerson\\Interact.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:50:12.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\ABC\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\ABC\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\HealthBar.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\ABC\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Assets\\ABC\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\HealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:04:32.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemSO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\Model\\ItemSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\Model\\ItemSO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\Model\\ItemSO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\Model\\ItemSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:19:49.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\InventoryController.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\InventoryController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\InventoryController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAWwIoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:55:48.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CharacterSave.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\CharacterSave.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\CharacterSave.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\CharacterSave.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\CharacterSave.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:21:23.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\QuestSystem\\Quest.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\QuestSystem\\Quest.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\QuestSystem\\Quest.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\QuestSystem\\Quest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:24:43.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Player\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Player\\HealthManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Player\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Player\\HealthManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwCQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:19:16.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UIInventoryPage.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\UIInventoryPage.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\UIInventoryPage.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\UIInventoryPage.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\UIInventoryPage.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAYwFIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:25:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UIInventoryItem.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\UIInventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\UIInventoryItem.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\UIInventoryItem.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\UIInventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:24:31.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InventorySO.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\Model\\InventorySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\Model\\InventorySO.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\Model\\InventorySO.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\Model\\InventorySO.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAmwMcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:15:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Input\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Input\\PlayerInputActions.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Input\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\Assets\\Input\\PlayerInputActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:48:08.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "QuitGame.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuitGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\UI\\QuitGame.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuitGame.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\UI\\QuitGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:37:11.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PostMethod_LeaderBoard.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethod_LeaderBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\PostMethod_LeaderBoard.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\PostMethod_LeaderBoard.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\PostMethod_LeaderBoard.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:17:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "QuestionAndAnswer_Music.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuestionAndAnswer_Music.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuestionAndAnswer_Music.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuestionAndAnswer_Music.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Quiz\\Quiz\\Quiz_Music 1\\QuestionAndAnswer_Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:48:38.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "GoldUI.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\GoldUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\UI\\GoldUI.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\GoldUI.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\UI\\GoldUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:22:09.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GoldManager.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Gold\\GoldManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Gold\\GoldManager.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Gold\\GoldManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Gold\\GoldManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:48:20.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "PurchaseSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\PurchaseSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Inventory\\PurchaseSystem.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Inventory\\PurchaseSystem.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Inventory\\PurchaseSystem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:46:28.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "StaminaBar.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\StaminaBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Resources\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\StaminaBar.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Resources\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\StaminaBar.cs",
+              "RelativeToolTip": "Assets\\Assets\\Resources\\Health-Bar-master\\Health-Bar-master\\Health Bar\\Assets\\StaminaBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:35:07.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "RenderTextureToWorld.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\MiniMap\\RenderTextureToWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\MiniMap\\RenderTextureToWorld.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\MiniMap\\RenderTextureToWorld.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\MiniMap\\RenderTextureToWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:07:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "QuestLogUI.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuestLogUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\UI\\QuestLogUI.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\UI\\QuestLogUI.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\UI\\QuestLogUI.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwEMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:10:00.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Location_A1.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Global\\Location_A1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Global\\Location_A1.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Global\\Location_A1.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Global\\Location_A1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:16:11.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "GetMethod.cs",
+              "DocumentMoniker": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\GetMethod.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Script\\Playfab\\GetMethod.cs",
+              "ToolTip": "D:\\Unity\\project\\PTIT\\Assets\\Assets\\Script\\Playfab\\GetMethod.cs",
+              "RelativeToolTip": "Assets\\Assets\\Script\\Playfab\\GetMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:19:27.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
